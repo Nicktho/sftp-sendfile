@@ -1,0 +1,14 @@
+{
+  "name": "send-sftp",
+  "version": "0.0.1",
+  "description": "send file to sftp server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nick Matenaar <matenaar92@gmail.com> (http://nickmatenaar.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "node-sftp": "^0.1.1"
+  }
+}
